@@ -1,0 +1,12 @@
+1ª criacao do arquivo package JSON
+
+npm init -y
+
+2ª manter a pasta node modules no servidor backend
+notaa: -E indica que é a versao que vem a seguir,
+
+npm i --save -E body-parser@1.15.2 express@4.14.0 mongoose@4.7.0 node-restful@0.2.5 pm2@2.1.5
+
+3{ depencias que irão ser necessárias no ambiente dev
+
+npm i --save-dev -E nodemon@1.11.0
